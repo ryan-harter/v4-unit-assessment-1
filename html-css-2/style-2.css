@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+header {
+  background-color: turquoise;
+  height: 8vh
+}
+header h1{
+  padding: 20px 20px;
+}
+
+h3{
+  margin-left:10px;
+  padding-top: 10px;
+  box-sizing: border-box;
+  
+}
+#rectangles {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 15px;
+  border: black 2px dotted;
+  min-height: 15vh;
+  box-sizing: border-box;
+}
+
+#purple{
+  height: 80px;
+  width: 200px;
+  background-color: purple;
+  border: red 3px solid;
+  display: inline-block;
+  margin-top: 80px;
+  margin-right: 15px;
+  box-sizing: border-box;
+}
+
+#blue {
+  height:80px;
+  width: 80px;
+  background-color: blue;
+  margin-top:80px;
+  margin-right: 15px;
+  display: inline-block;
+  box-shadow: 3px 3px 6px black, 3px 3px 6px black;
+}
+
+#pink{
+  height:160px;
+  width: 160px;
+  background-color: pink;
+  margin-top:0;
+  margin-right: 15px;
+  display: inline-block;
+  border: black 1px solid;
+  box-shadow: 1px 1px 1px lightgray, 1px 1px 1px lightgray;
+}
+
+
+#circles {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border: black 2px dotted;
+  min-height: 20vh;
+}
+
+#left, #right{
+  height: 15px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 10px;
+  
+}
+#nose{
+  height: 20px;
+  margin-top: -10px;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#head{
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  margin-left: 22px;
+  display: block;
+  border: black 2px solid;
+  box-sizing: border-box;
+}
+
+#middle{
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+  margin-left: 12px;
+  display: block;
+  border: black 2px solid;
+  box-sizing: border-box;
+}
+#top-button, #middle-button, #bottom-button{
+  height: 15px;
+  display: block;
+  margin-left: 40%;
+  padding-top: 10px;
+}
+
+#bottom{
+  border-radius: 50%;
+  height: 110px;
+  width: 110px;
+  margin-left: 2px;
+  display: block;
+  border: black 2px solid;
+  box-sizing: border-box;
+
+}
+
+
+#everything {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  border: black 2px dotted;
+  min-height: 15vh;
+}
+
+#outer-box{
+  height: 160px;
+  width: 160px;
+  background-color: tan;
+  box-sizing: border-box;
+  border: gray 1px solid;
+
+}
+
+#outer-circle{
+  border-radius: 50%;
+  height: 130px;
+  width: 130px;
+  background-color: green;
+
+  display: block;
+  border: black 1px solid;
+  box-sizing: border-box;
+}
+
+#fish-tank{
+  background-color: brown;
+  height:80px;
+  width:80px;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+#inner-circle{
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  background-color: blue;
+}
+
+#fish{
+  height: 30px;
+  width: 30px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+#fish-text{
+  text-align: center;
+  color: white;
+  margin-top: 3px;
+}
+
